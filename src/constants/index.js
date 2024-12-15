@@ -89,10 +89,55 @@ export const myProjects = [
       {
         id: 3,
         name: 'Shadcn',
-        path: 'assets/shadcn.png'
+        path: 'assets/shadcn.png',
+        filter: 'invert(100%)'
       },
       {
         id: 4,
+        name: 'Tailwind',
+        path: 'assets/tailwindcss.png'
+      }
+    ],
+  },
+  {
+    title: 'StoreIt - Cloud Storage ',
+    desc: 'StoreIt is a modern storage management and file-sharing platform enabling users to easily upload, organize, and share files with a seamless experience, leveraging advanced Next.js 15 and Appwrite Node SDK features.',
+    subdesc:
+      'The web application is built using  React 19, Next.js 15, Appwrite, TailwindCSS, ShadCN, and TypeScript for a robust and scalable user experience.',
+    href: 'https://store-it-amber-nu.vercel.app/',
+    texture: '/textures/project/store-it.mp4',
+    logo: '/assets/logo-brand.svg',
+    logowidth: 20,
+    logoStyle: {
+      backgroundColor: '#13202F',
+      border: '0.2px solid #17293E',
+      boxShadow: '0px 0px 60px 0px #2F6DB54D',
+    },
+    spotlight: '/assets/spotlight3.png',
+    tags: [
+      {
+        id: 1,
+        name: 'Reactjs',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'Nextjs',
+        path: 'assets/nextjs.png'
+      },
+      {
+        id: 3,
+        name: 'Appwrite',
+        path: 'assets/appwrite.png'
+      },
+      {
+        id: 4,
+        name: 'Shadcn',
+        path: 'assets/shadcn.png',
+        filter: 'invert(100%)'
+      },
+      {
+        id: 5,
         name: 'Tailwind',
         path: 'assets/tailwindcss.png'
       }
