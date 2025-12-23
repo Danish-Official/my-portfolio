@@ -68,11 +68,11 @@ const About = () => {
                 bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
                 labelsData={[
                   {
-                    lat: 13,
-                    lng: 80,
+                    lat: 21.1458,
+                    lng: 79.0882,
                     text: "I'm here!",
                     color: "white",
-                    size: 50,
+                    size: 100,
                   },
                 ]}
               />
