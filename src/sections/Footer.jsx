@@ -19,7 +19,7 @@ const Footer = () => {
         </a>
       </div>
 
-      <p className="text-white-500">© 2024 Danish Siddiqui. All rights reserved.</p>
+      <p className="text-white-500">© 2025 Danish Siddiqui. All rights reserved.</p>
     </footer>
   );
 };
