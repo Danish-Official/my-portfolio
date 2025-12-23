@@ -155,7 +155,7 @@ export const workExperiences = [
     id: 1,
     name: 'Cognizant',
     pos: 'Programmer Analyst',
-    duration: 'September 2023 - Present',
+    duration: 'September 2023 - October 2025',
     title: "Utilized the provided library to create modular and efficient React components, ensuring they are reusable across various parts of the application.This approach enhanced code maintainability and consistency throughout the project.",
       icon: '/assets/cognizant.svg',
     animation: 'victory',
