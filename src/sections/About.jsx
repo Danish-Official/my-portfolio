@@ -29,7 +29,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Danish Siddiqui</p>
               <p className="grid-subtext">
-                With 1+ years of experience, I have honed my skills in frontend
+                With 2+ years of experience, I have honed my skills in frontend
                 dev, creating dynamic and responsive websites.
               </p>
             </div>
@@ -82,7 +82,7 @@ const About = () => {
                 I’m very flexible with time zone communications & locations
               </p>
               <p className="grid-subtext">
-                I&apos;m based in Chennai, India and open to remote work
+                I&apos;m based in Nagpur, India and open to remote work
                 worldwide.
               </p>
               <a href="#contact"><Button name="Contact Me" isBeam containerClass="w-full mt-10" /></a>
